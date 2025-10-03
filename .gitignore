@@ -13,3 +13,6 @@ wheels/
 .env
 
 # environment variables in any subdirectory
+
+# ignore ra_output subdirectories
+ra_output/*
